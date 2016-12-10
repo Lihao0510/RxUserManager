@@ -1,4 +1,4 @@
-package com.lihao.nimatest;
+package com.lihao.nimatest.Servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

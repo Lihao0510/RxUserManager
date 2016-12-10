@@ -1,4 +1,4 @@
-package com.lihao.nimatest;
+package com.lihao.nimatest.Servlet;
 
 import com.google.gson.Gson;
 
@@ -8,13 +8,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.io.PrintStream;
 import java.io.PrintWriter;
 import java.sql.*;
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.TreeMap;
 
 /**
  * Created by lihao on 2016/12/9.
